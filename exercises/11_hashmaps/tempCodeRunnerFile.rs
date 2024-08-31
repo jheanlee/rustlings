@@ -1,0 +1,1 @@
+ basket.insert(String::from("a fruit"), 4294967293);
